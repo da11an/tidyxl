@@ -3,6 +3,7 @@
 * tidyxl is now licensed as MIT (#63).
 * Fixed a unicode bug (#64)
 * Fixed two crashes (#71, #73)
+* Fixed misinterpretation of scientific notation "E" as date (#52)
 
 # tidyxl 1.0.7
 
